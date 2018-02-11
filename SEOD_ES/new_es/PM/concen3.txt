@@ -1,0 +1,11 @@
+RT3D003.UCN
+1
+RT3D.CNF
+n
+-1
+1 1 1
+21 13 1
+concen3_all.dat
+3
+n
+

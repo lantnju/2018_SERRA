@@ -1,0 +1,11 @@
+MT3D001.UCN
+1
+MT3D.CNF
+n
+-1
+1 1 1
+21 13 1
+concen1_all.dat
+3
+n
+

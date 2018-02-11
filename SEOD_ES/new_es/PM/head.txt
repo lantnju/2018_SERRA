@@ -1,0 +1,11 @@
+fort.730
+1
+MT3D.CNF
+n
+-1
+1 1 1
+21 13 1
+head_all.dat
+3
+n
+

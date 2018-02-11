@@ -1,0 +1,9 @@
+LIST   1 sorption.out
+BTN   21 sorption.btn
+ADV   22 sorption.adv
+DSP   23 sorption.dsp
+SSM   24 sorption.ssm
+RCT   25 sorption.rct
+GCG   26 sorption.gcg
+FTL   66 mt3d.flo
+DATA 105 k_tce.dat
